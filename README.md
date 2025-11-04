@@ -28,7 +28,7 @@ Analizar un dataset de ofertas laborales en IA para identificar:
 
 ##  Abrir en Google Colab
 
-[![Abrir en Colab]([https://colab.research.google.com/github/AlexiasXro/tendencias-empleo-ia/blob/main/Laboratorio1_.ipynb](https://colab.research.google.com/drive/1Epq0eaTv4YJhaYMZEa8HBMgQhSPlK6sO?authuser=2))
+[![Abrir en Colab](https://colab.research.google.com/drive/1Epq0eaTv4YJhaYMZEa8HBMgQhSPlK6sO?usp=sharing)
 
 
 
